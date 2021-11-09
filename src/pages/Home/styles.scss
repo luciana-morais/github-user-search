@@ -1,0 +1,31 @@
+.home-content {
+    display: flex;
+    flex-direction: column;
+    margin: 120px 120px 40px 120px;
+  }
+  
+  .home-title {
+    margin-bottom: 25px;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 64px;
+    color: #062847;
+  }
+  
+  .home-description {
+    width: 612px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 36px;
+    color: #5A6774;
+    margin-bottom: 15px;
+  }
+  
+  .home-description-email {
+    color: #349DFE;
+  }
+  
+  .home-button {
+    width: 100px;
+    margin-top: 20px;
+  }
